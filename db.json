@@ -1,0 +1,34 @@
+{
+  "libros": [
+    {
+      "id": 12,
+      "nombre": "Probando",
+      "precio": "35"
+    },
+    {
+      "id": 13,
+      "nombre": "Nueva prueba",
+      "precio": "90"
+    },
+    {
+      "nombre": "Nuevo 6",
+      "precio": 20,
+      "id": 14
+    },
+    {
+      "nombre": "Nueva prueba",
+      "precio": 2,
+      "id": 15
+    },
+    {
+      "nombre": "Nuevo",
+      "precio": 89,
+      "id": 16
+    },
+    {
+      "nombre": "11",
+      "precio": 1,
+      "id": 17
+    }
+  ]
+}
